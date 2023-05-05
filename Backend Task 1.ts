@@ -1,3 +1,8 @@
+// In any given string, write a program to find the largest possible substring which is a palindrome.
+// (Palindrome of length >=2, you can ignore single letters). Answer should be a string followed by
+// its length. Substring: stream of consecutive letters in a given string.
+
+
 function longestPalindrome(s: string): string {
   if (s.length < 2) {
     return s;
