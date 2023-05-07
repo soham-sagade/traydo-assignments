@@ -1,0 +1,16 @@
+Exercise 2: Frontend - (JS, CSS, HTML, Can use any frontend framework if needed)
+Refer to the below layout: task.png
+Here are the features:
+1. On the top half, user can type task to-do and category of the task
+2. There are 3 task categories Red, Yellow and Green
+3. Once a user enters the details, he can submit the same. Both the input fields are
+mandatory for submission
+4. All the submitted tasks will be listed at the bottom, with proper category indication
+5. For each task there is a check box to mark it as completed
+6. Once checkbox is checked, task will be struck off to indicate it is completed
+7. When Checkbox is unchecked, task will change to normal
+
+
+
+
+https://codesandbox.io/s/wonderful-frost-iu838r
